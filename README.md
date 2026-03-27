@@ -22,6 +22,5 @@
 const saikat = {
   frontend: ["Next.js", "React", "JavaScript", "TypeScript"],
   ui: ["MUI", "Tailwind CSS"],
-  backend: ["Node.js"],
   tools: ["Git", "GitHub", "VS Code"],
 };
